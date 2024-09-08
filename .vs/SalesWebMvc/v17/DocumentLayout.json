@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\OopUdemy\\SalesWebMvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:28:23.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
