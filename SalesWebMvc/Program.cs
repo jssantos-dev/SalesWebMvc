@@ -7,10 +7,16 @@ builder.Services.AddDbContext<SalesWebMvcContext>(options =>
    options.UseMySql("server=localhost;initial catalog=saleswebmvcappdb;uid=root;pwd=ZecaGreta2024#",
    Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.38-mysql")));
 
+builder.Services.AddScoped<SeedingService>();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+
 var app = builder.Build();
+
+app.Services.CreateScope().ServiceProvider.GetRequiredService<SeedingService>().Seed();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -19,6 +25,8 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
