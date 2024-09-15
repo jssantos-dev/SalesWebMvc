@@ -1,4 +1,5 @@
-﻿using SalesWebMvc.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using SalesWebMvc.Data;
 using SalesWebMvc.Models;
 
 namespace SalesWebMvc.Services
@@ -26,7 +27,7 @@ namespace SalesWebMvc.Services
         public Seller FindById(int id) 
         {
 #pragma warning disable CS8603 // Possible null reference return.
-            return _context.Seller.FirstOrDefault(obj => obj.Id == id);
+            return _context.Seller.Include(obj => obj.Department).FirstOrDefault(obj => obj.Id == id);
 #pragma warning restore CS8603 // Possible null reference return.
         }
 
