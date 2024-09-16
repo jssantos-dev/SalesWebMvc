@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\OopUdemy\\SalesWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Seller.cs",
-              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
-              "RelativeToolTip": "SalesWebMvc\\Models\\Seller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T10:55:05.216Z",
+              "WhenOpened": "2024-09-16T11:29:15.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T11:24:33.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T11:17:31.251Z",
               "EditorCaption": ""
             }
           ]
