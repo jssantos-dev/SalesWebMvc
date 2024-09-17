@@ -34,11 +34,19 @@ namespace SalesWebMvc.Services
 
         public async Task RemoveAsync(int id) 
         {
-            var obj = await _context.Seller.FindAsync(id);
+            try
+            {
+                var obj = await _context.Seller.FindAsync(id);
 #pragma warning disable CS8604 // Possible null reference argument.
-            _context.Seller.Remove(obj);
+                _context.Seller.Remove(obj);
 #pragma warning restore CS8604 // Possible null reference argument.
-            await _context.SaveChangesAsync();
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateException) 
+            {
+                throw new IntegrityException("Can't delete seller bacause he/she has sales");
+            }
+            
         }
 
         public async Task UpdateAsync(Seller obj)
