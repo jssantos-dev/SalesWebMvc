@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\OopUdemy\\SalesWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\views\\salesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\salesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\views\\salesrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\salesrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D41975C-A347-447E-BE2F-A103888474B6}|SalesWebMvc\\SalesWebMvc.csproj|c:\\oopudemy\\saleswebmvc\\saleswebmvc\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,58 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GroupingSearch.cshtml",
-              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T11:21:23.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SimpleSearch.cshtml",
-              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T11:20:06.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\SalesRecords\\Index.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\SalesRecords\\Index.cshtml",
-              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\SalesRecords\\Index.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\SalesRecords\\Index.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T11:06:22.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "SalesRecordsController.cs",
               "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Controllers\\SalesRecordsController.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SalesRecordsController.cs",
               "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Controllers\\SalesRecordsController.cs",
               "RelativeToolTip": "SalesWebMvc\\Controllers\\SalesRecordsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:02:50.42Z",
+              "WhenOpened": "2024-09-17T11:59:11.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleSearch.cshtml",
+              "DocumentMoniker": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\SalesRecords\\SimpleSearch.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\SalesRecords\\SimpleSearch.cshtml",
+              "ToolTip": "C:\\OopUdemy\\SalesWebMvc\\SalesWebMvc\\Views\\SalesRecords\\SimpleSearch.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\SalesRecords\\SimpleSearch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T11:20:06.394Z",
               "EditorCaption": ""
             }
           ]
